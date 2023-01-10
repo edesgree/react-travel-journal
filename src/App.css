@@ -55,6 +55,7 @@ section.cards-list {
 .card .media img {
   width: 100%;
   height: auto;
+  border-radius: 5px;
 }
 .card .media-info {
   flex: 2;
