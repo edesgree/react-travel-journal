@@ -1,6 +1,6 @@
 # react travel journal
 
-The project is to a one page travel journal that shows my last travels. It is a static website using react components and grabbing data from a local data file.
+The project is to build a one page travel journal that shows my last travels. It is a static website using react components and grabbing data from a local data file.
 It is bootstraped with Vite.js.
 
 🔗 **Live preview:** [here](https://iridescent-chimera-89557b.netlify.app/)
